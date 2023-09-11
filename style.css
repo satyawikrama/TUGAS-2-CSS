@@ -1,0 +1,23 @@
+table, th, td{
+    border: 1px solid black;
+} 
+
+h1, th, td, li, a{
+    font-family:'Times New Roman', Times, serif;
+    color: antiquewhite; 
+}
+
+body{
+    background-color:aqua;
+    opacity: 0,7;
+}
+
+td.desain{
+    color: blueviolet;
+}
+
+img{
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+}
